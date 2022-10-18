@@ -1,5 +1,5 @@
 '''
-GitHUb Practice Code
+GitHub Practice Code
 '''
 
 print("Hello World")
